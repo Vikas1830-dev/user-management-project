@@ -1,3 +1,6 @@
+![User Management Project Banner](banner.png)
+
+
 # 🛠️ User Management & Backup Script  
 
 A **Bash script** to manage Linux users and create automatic backups of the `/home` directory — designed for simplicity and automation.
